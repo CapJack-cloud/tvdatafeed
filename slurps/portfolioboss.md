@@ -1,20 +1,20 @@
 ---
 title: "portfolioboss Documentation"
 source: "https://portfolioboss.com/documentation/"
-scraped: "2026-07-05T02:54:40.331Z"
+scraped: "2026-07-12T02:34:54.840Z"
 tokens: 204795
 ---
 # portfolioboss Documentation
 
 > Source: https://portfolioboss.com/documentation/
-> Generated: 7/5/2026, 2:54:40 AM
+> Generated: 7/12/2026, 2:34:54 AM
 
 ### portfolioboss
 
 #### _documentation_.md
 
 > Source: https://portfolioboss.com/documentation/
-> Scraped: 7/5/2026, 2:52:00 AM
+> Scraped: 7/12/2026, 2:32:22 AM
 
 EARNINGS DISCLAIMER: I like to provide full transparency and not blow smoke up your behind, so listen up.100% Club members in general are seeing between 91%-100% winning months in back tests just using the Instant Start templates I created for them. These results are out-of-sample (unseen in the optimization phase), so I put a lot of weight into that fact.
 
@@ -37,7 +37,7 @@ d) The daily instructions are brain-dead simple to follow, and can be accomplish
 #### _documentation_a-strategy-for-short-selling.md
 
 > Source: https://portfolioboss.com/documentation/a-strategy-for-short-selling
-> Scraped: 7/5/2026, 2:53:15 AM
+> Scraped: 7/12/2026, 2:33:32 AM
 
 [!](_wp-content_uploads_2019_10_Short-Position-Heading-3336.png.md)
 
@@ -194,7 +194,7 @@ You have already reported this .
 #### _documentation_about-filters-rules.md
 
 > Source: https://portfolioboss.com/documentation/about-filters-rules
-> Scraped: 7/5/2026, 2:53:15 AM
+> Scraped: 7/12/2026, 2:33:32 AM
 
 [!](_wp-content_uploads_2019_10_Buy-Sell-and-Ranking-Rules-Diagram_00000.png.md)
 
@@ -261,7 +261,7 @@ You have already reported this .
 #### _documentation_all-time-high-low-filter.md
 
 > Source: https://portfolioboss.com/documentation/all-time-high-low-filter
-> Scraped: 7/5/2026, 2:53:16 AM
+> Scraped: 7/12/2026, 2:33:33 AM
 
 !
 
@@ -326,7 +326,7 @@ You have already reported this .
 #### _documentation_appearance-tab.md
 
 > Source: https://portfolioboss.com/documentation/appearance-tab
-> Scraped: 7/5/2026, 2:54:12 AM
+> Scraped: 7/12/2026, 2:34:27 AM
 
 [!](_wp-content_uploads_2019_10_Appearance-Tab.png.md)
 
@@ -357,7 +357,7 @@ You have already reported this .
 #### _documentation_application-log-page.md
 
 > Source: https://portfolioboss.com/documentation/application-log-page
-> Scraped: 7/5/2026, 2:54:14 AM
+> Scraped: 7/12/2026, 2:34:27 AM
 
 You can access this page by clicking the “Application Logs” button at the bottom left of the interface. All Portfolio Boss activities are logged into this page: what pages you looked at, some parameters you changed, whether PB is downloading price data, etc.
 
@@ -393,7 +393,7 @@ You have already reported this .
 #### _documentation_aroon-oscillator-filter.md
 
 > Source: https://portfolioboss.com/documentation/aroon-oscillator-filter
-> Scraped: 7/5/2026, 2:53:13 AM
+> Scraped: 7/12/2026, 2:33:32 AM
 
 [!](_wp-content_uploads_2020_03_ARO-filter-buy.png.md)
 
@@ -456,7 +456,7 @@ You have already reported this .
 #### _documentation_atr-distance-below-sma-rule.md
 
 > Source: https://portfolioboss.com/documentation/atr-distance-below-sma-rule
-> Scraped: 7/5/2026, 2:54:07 AM
+> Scraped: 7/12/2026, 2:34:19 AM
 
 [!](_wp-content_uploads_2019_10_ATR-Distance-Below-SMA-Rule-000.png.md)
 
@@ -503,7 +503,7 @@ You have already reported this .
 #### _documentation_augmenting-a-strategy-with-new-rules.md
 
 > Source: https://portfolioboss.com/documentation/augmenting-a-strategy-with-new-rules
-> Scraped: 7/5/2026, 2:53:15 AM
+> Scraped: 7/12/2026, 2:33:32 AM
 
 [!](_wp-content_uploads_2020_07_Oh-Genie-Fix-This.png.md)
 
@@ -610,7 +610,7 @@ You have already reported this .
 #### _documentation_automation-tab-guide.md
 
 > Source: https://portfolioboss.com/documentation/automation-tab-guide
-> Scraped: 7/5/2026, 2:54:12 AM
+> Scraped: 7/12/2026, 2:34:25 AM
 
 [!](_wp-content_uploads_2019_10_Automation-Tab.png.md)
 
@@ -714,7 +714,7 @@ You have already reported this .
 #### _documentation_average-currency-volume-filter.md
 
 > Source: https://portfolioboss.com/documentation/average-currency-volume-filter
-> Scraped: 7/5/2026, 2:52:36 AM
+> Scraped: 7/12/2026, 2:32:50 AM
 
 [!](_wp-content_uploads_2019_10_Average-Currency-Volume-Filter-000.png.md)
 
@@ -751,7 +751,7 @@ You have already reported this .
 #### _documentation_average-percent-range-apr-filter.md
 
 > Source: https://portfolioboss.com/documentation/average-percent-range-apr-filter
-> Scraped: 7/5/2026, 2:53:47 AM
+> Scraped: 7/12/2026, 2:33:44 AM
 
 [!](_wp-content_uploads_2020_08_APR-Buy-Filter.png.md)
 [!](_wp-content_uploads_2020_08_APR-Sell-Filter.png.md)
@@ -816,7 +816,7 @@ You have already reported this .
 #### _documentation_average-true-range-atr-filter.md
 
 > Source: https://portfolioboss.com/documentation/average-true-range-atr-filter
-> Scraped: 7/5/2026, 2:53:32 AM
+> Scraped: 7/12/2026, 2:33:58 AM
 
 [!](_wp-content_uploads_2020_07_Dow-Theory-Short-Filter.png.md)
 
@@ -885,7 +885,7 @@ You have already reported this .
 #### _documentation_backtest-panel-guide.md
 
 > Source: https://portfolioboss.com/documentation/backtest-panel-guide
-> Scraped: 7/5/2026, 2:52:55 AM
+> Scraped: 7/12/2026, 2:33:12 AM
 
 [!](_wp-content_uploads_2021_05_New-Backtest-Panel_00000.png.md)
 
@@ -1069,7 +1069,7 @@ You have already reported this .
 #### _documentation_backtest-parameterization-panel.md
 
 > Source: https://portfolioboss.com/documentation/backtest-parameterization-panel
-> Scraped: 7/5/2026, 2:53:08 AM
+> Scraped: 7/12/2026, 2:33:25 AM
 
 !
 
@@ -1966,7 +1966,7 @@ You have already reported this .
 #### _documentation_backtest-results-tab.md
 
 > Source: https://portfolioboss.com/documentation/backtest-results-tab
-> Scraped: 7/5/2026, 2:53:14 AM
+> Scraped: 7/12/2026, 2:33:31 AM
 
 !
 
@@ -2229,7 +2229,7 @@ You have already reported this .
 #### _documentation_backtest-strategy-page-overview.md
 
 > Source: https://portfolioboss.com/documentation/backtest-strategy-page-overview
-> Scraped: 7/5/2026, 2:52:47 AM
+> Scraped: 7/12/2026, 2:32:57 AM
 
 The “Backtest Strategy” page is _the heart_ of Portfolio Boss.
 To access this page, click on the “Backtest Strategy” button  !    at the left of the interface (provided you have _selected_ a strategy from the [“Strategy Management”](_documentation_strategy-management-page-overview_.md) page).
@@ -2344,7 +2344,7 @@ You have already reported this .
 #### _documentation_beta-filter.md
 
 > Source: https://portfolioboss.com/documentation/beta-filter
-> Scraped: 7/5/2026, 2:53:43 AM
+> Scraped: 7/12/2026, 2:33:45 AM
 
 [!](_wp-content_uploads_2019_10_Beta-Filter-Original.png.md)
 
@@ -2399,7 +2399,7 @@ You have already reported this .
 #### _documentation_bollinger-bands-bbands-filter.md
 
 > Source: https://portfolioboss.com/documentation/bollinger-bands-bbands-filter
-> Scraped: 7/5/2026, 2:53:29 AM
+> Scraped: 7/12/2026, 2:34:05 AM
 
 [!](_wp-content_uploads_2020_07_BBands-Buy-Filter.png.md)
 
@@ -2574,7 +2574,7 @@ You have already reported this .
 #### _documentation_buy-filters-panel-guide.md
 
 > Source: https://portfolioboss.com/documentation/buy-filters-panel-guide
-> Scraped: 7/5/2026, 2:52:51 AM
+> Scraped: 7/12/2026, 2:33:09 AM
 
 !
 
@@ -2665,7 +2665,7 @@ You have already reported this .
 #### _documentation_cash-equivalent-score-filter.md
 
 > Source: https://portfolioboss.com/documentation/cash-equivalent-score-filter
-> Scraped: 7/5/2026, 2:53:39 AM
+> Scraped: 7/12/2026, 2:33:48 AM
 
 !
 
@@ -2706,7 +2706,7 @@ You have already reported this .
 #### _documentation_chaikin-oscillator-filter.md
 
 > Source: https://portfolioboss.com/documentation/chaikin-oscillator-filter
-> Scraped: 7/5/2026, 2:53:38 AM
+> Scraped: 7/12/2026, 2:34:09 AM
 
 !
 
@@ -2800,7 +2800,7 @@ You have already reported this .
 #### _documentation_chande-momentum-oscillator-cmo-filter.md
 
 > Source: https://portfolioboss.com/documentation/chande-momentum-oscillator-cmo-filter
-> Scraped: 7/5/2026, 2:53:49 AM
+> Scraped: 7/12/2026, 2:34:07 AM
 
 [!](_wp-content_uploads_2020_07_CMO-Buy-Filter.png.md)
 
@@ -2863,7 +2863,7 @@ You have already reported this .
 #### _documentation_chart-tab.md
 
 > Source: https://portfolioboss.com/documentation/chart-tab
-> Scraped: 7/5/2026, 2:53:13 AM
+> Scraped: 7/12/2026, 2:33:32 AM
 
 !
 
@@ -2944,7 +2944,7 @@ You have already reported this .
 #### _documentation_combining-all-the-features.md
 
 > Source: https://portfolioboss.com/documentation/combining-all-the-features
-> Scraped: 7/5/2026, 2:53:16 AM
+> Scraped: 7/12/2026, 2:33:33 AM
 
 [!](_wp-content_uploads_2020_08_Electronic-Human-1010.png.md)
 
@@ -3049,7 +3049,7 @@ You have already reported this .
 #### _documentation_correlation-filter.md
 
 > Source: https://portfolioboss.com/documentation/correlation-filter
-> Scraped: 7/5/2026, 2:53:42 AM
+> Scraped: 7/12/2026, 2:33:51 AM
 
 [!](_wp-content_uploads_2019_10_Correlation-Filter-Buy.png.md)
 
@@ -3104,7 +3104,7 @@ You have already reported this .
 #### _documentation_correlation-rule.md
 
 > Source: https://portfolioboss.com/documentation/correlation-rule
-> Scraped: 7/5/2026, 2:54:08 AM
+> Scraped: 7/12/2026, 2:34:20 AM
 
 * * * [!](_wp-content_uploads_2019_10_Correlation-Rule-000.png.md)
 
@@ -3153,7 +3153,7 @@ Search
 #### _documentation_cyber-code-genetic-programming.md
 
 > Source: https://portfolioboss.com/documentation/cyber-code-genetic-programming
-> Scraped: 7/5/2026, 2:53:16 AM
+> Scraped: 7/12/2026, 2:33:34 AM
 
 [!](_wp-content_uploads_2021_06_Electronic-Bull-Pseudocode_00000.png.md)
 
@@ -3719,7 +3719,7 @@ You have already reported this .
 #### _documentation_database-tab-guide.md
 
 > Source: https://portfolioboss.com/documentation/database-tab-guide
-> Scraped: 7/5/2026, 2:54:13 AM
+> Scraped: 7/12/2026, 2:34:27 AM
 
 !
 
@@ -3814,7 +3814,7 @@ You have already reported this .
 #### _documentation_day-of-the-week-filter.md
 
 > Source: https://portfolioboss.com/documentation/day-of-the-week-filter
-> Scraped: 7/5/2026, 2:53:53 AM
+> Scraped: 7/12/2026, 2:34:06 AM
 
 !
 
@@ -3859,7 +3859,7 @@ You have already reported this .
 #### _documentation_design-strategies-from-scratch.md
 
 > Source: https://portfolioboss.com/documentation/design-strategies-from-scratch
-> Scraped: 7/5/2026, 2:53:15 AM
+> Scraped: 7/12/2026, 2:33:33 AM
 
 [!](_wp-content_uploads_2020_07_Oh-Genie-Surprise-Me-3.png.md)
 
@@ -4018,7 +4018,7 @@ You have already reported this .
 #### _documentation_discount-filter-guide.md
 
 > Source: https://portfolioboss.com/documentation/discount-filter-guide
-> Scraped: 7/5/2026, 2:53:28 AM
+> Scraped: 7/12/2026, 2:34:09 AM
 
 *   »
 *   »
@@ -4063,7 +4063,7 @@ You have already reported this .
 #### _documentation_divine-engine-global-queue-for-strategy-testing.md
 
 > Source: https://portfolioboss.com/documentation/divine-engine-global-queue-for-strategy-testing
-> Scraped: 7/5/2026, 2:52:13 AM
+> Scraped: 7/12/2026, 2:32:43 AM
 
 !
 
@@ -4142,7 +4142,7 @@ You have already reported this .
 #### _documentation_exporting-the-backtest-result.md
 
 > Source: https://portfolioboss.com/documentation/exporting-the-backtest-result
-> Scraped: 7/5/2026, 2:53:15 AM
+> Scraped: 7/12/2026, 2:33:31 AM
 
 * * *
 
@@ -4356,7 +4356,7 @@ Search
 #### _documentation_fine-tune-a-strategy-for-the-best-settings.md
 
 > Source: https://portfolioboss.com/documentation/fine-tune-a-strategy-for-the-best-settings
-> Scraped: 7/5/2026, 2:53:15 AM
+> Scraped: 7/12/2026, 2:33:33 AM
 
 [!](_wp-content_uploads_2020_07_Oh-Genie-Make-it-Perfect.png.md)
 
@@ -4621,7 +4621,7 @@ You have already reported this .
 #### _documentation_fixed-atr-stop-loss-filter.md
 
 > Source: https://portfolioboss.com/documentation/fixed-atr-stop-loss-filter
-> Scraped: 7/5/2026, 2:53:49 AM
+> Scraped: 7/12/2026, 2:34:08 AM
 
 !
 
@@ -4666,7 +4666,7 @@ You have already reported this .
 #### _documentation_frequently_asked_questions.md
 
 > Source: https://portfolioboss.com/documentation/frequently_asked_questions
-> Scraped: 7/5/2026, 2:54:14 AM
+> Scraped: 7/12/2026, 2:34:28 AM
 
 [!](_wp-content_uploads_2019_10_FAQ-Tab.png.md)
 
@@ -4925,7 +4925,7 @@ You have already reported this .
 #### _documentation_goldilocks-filter-guide.md
 
 > Source: https://portfolioboss.com/documentation/goldilocks-filter-guide
-> Scraped: 7/5/2026, 2:52:34 AM
+> Scraped: 7/12/2026, 2:32:57 AM
 
 [!](_wp-content_uploads_2019_11_Goldilocks-Filter.png.md)
 
@@ -4946,7 +4946,7 @@ You have already reported this .
 #### _documentation_help-page-overview-guide.md
 
 > Source: https://portfolioboss.com/documentation/help-page-overview-guide
-> Scraped: 7/5/2026, 2:52:15 AM
+> Scraped: 7/12/2026, 2:32:34 AM
 
 *   »
 *   »
@@ -4983,7 +4983,7 @@ You have already reported this .
 #### _documentation_hilo-over-time-filter.md
 
 > Source: https://portfolioboss.com/documentation/hilo-over-time-filter
-> Scraped: 7/5/2026, 2:53:51 AM
+> Scraped: 7/12/2026, 2:33:40 AM
 
 * * *
 
@@ -5049,7 +5049,7 @@ Search
 #### _documentation_history-tab.md
 
 > Source: https://portfolioboss.com/documentation/history-tab
-> Scraped: 7/5/2026, 2:53:14 AM
+> Scraped: 7/12/2026, 2:33:31 AM
 
 !
 
@@ -5122,7 +5122,7 @@ You have already reported this .
 #### _documentation_impulse-score-rule.md
 
 > Source: https://portfolioboss.com/documentation/impulse-score-rule
-> Scraped: 7/5/2026, 2:52:18 AM
+> Scraped: 7/12/2026, 2:32:37 AM
 
 [!](_wp-content_uploads_2019_10_Impulse-Score-Rule-000.png.md)
 
@@ -5155,7 +5155,7 @@ You have already reported this .
 #### _documentation_index-atr-spread-filter.md
 
 > Source: https://portfolioboss.com/documentation/index-atr-spread-filter
-> Scraped: 7/5/2026, 2:53:46 AM
+> Scraped: 7/12/2026, 2:33:53 AM
 
 [!](_wp-content_uploads_2019_10_Index-ATR-Spread-Filter-Buy.png.md)
 
@@ -5233,7 +5233,7 @@ You have already reported this .
 #### _documentation_index-atr-spread-rule.md
 
 > Source: https://portfolioboss.com/documentation/index-atr-spread-rule
-> Scraped: 7/5/2026, 2:54:09 AM
+> Scraped: 7/12/2026, 2:34:19 AM
 
 [!](_wp-content_uploads_2019_10_Index-ATR-Spread-Rule-000.png.md)
 
@@ -5288,7 +5288,7 @@ You have already reported this .
 #### _documentation_instrument-chart-panel-guide.md
 
 > Source: https://portfolioboss.com/documentation/instrument-chart-panel-guide
-> Scraped: 7/5/2026, 2:52:41 AM
+> Scraped: 7/12/2026, 2:33:02 AM
 
 !
 
@@ -5347,7 +5347,7 @@ You have already reported this .
 #### _documentation_instrument-public-age-filter.md
 
 > Source: https://portfolioboss.com/documentation/instrument-public-age-filter
-> Scraped: 7/5/2026, 2:52:31 AM
+> Scraped: 7/12/2026, 2:32:52 AM
 
 [!](_wp-content_uploads_2019_10_Instrument-Public-Age-Fillter-Ori.png.md)
 
@@ -5378,7 +5378,7 @@ You have already reported this .
 #### _documentation_instrument-tab.md
 
 > Source: https://portfolioboss.com/documentation/instrument-tab
-> Scraped: 7/5/2026, 2:53:14 AM
+> Scraped: 7/12/2026, 2:33:31 AM
 
 !
 
@@ -5502,7 +5502,7 @@ You have already reported this .
 #### _documentation_instruments-panel-guide.md
 
 > Source: https://portfolioboss.com/documentation/instruments-panel-guide
-> Scraped: 7/5/2026, 2:52:52 AM
+> Scraped: 7/12/2026, 2:33:08 AM
 
 !
 
@@ -5589,7 +5589,7 @@ You have already reported this .
 #### _documentation_interactive-brokers-tab-guide.md
 
 > Source: https://portfolioboss.com/documentation/interactive-brokers-tab-guide
-> Scraped: 7/5/2026, 2:54:13 AM
+> Scraped: 7/12/2026, 2:34:27 AM
 
 !
 
@@ -5734,7 +5734,7 @@ You have already reported this .
 #### _documentation_kaufman-efficiency-ratio-filter.md
 
 > Source: https://portfolioboss.com/documentation/kaufman-efficiency-ratio-filter
-> Scraped: 7/5/2026, 2:53:43 AM
+> Scraped: 7/12/2026, 2:34:05 AM
 
 * * * [!](_wp-content_uploads_2019_10_Kaufman-Efficiency-Ratio-Filter-Buy.png.md)
 
@@ -5785,7 +5785,7 @@ Search
 #### _documentation_lowest-close-index-filter.md
 
 > Source: https://portfolioboss.com/documentation/lowest-close-index-filter
-> Scraped: 7/5/2026, 2:53:45 AM
+> Scraped: 7/12/2026, 2:34:11 AM
 
 [!](_wp-content_uploads_2019_10_Lowest-Close-Index-Filter-Buy.png.md)
 
@@ -5834,7 +5834,7 @@ You have already reported this .
 #### _documentation_lowest-close-position-filter.md
 
 > Source: https://portfolioboss.com/documentation/lowest-close-position-filter
-> Scraped: 7/5/2026, 2:52:29 AM
+> Scraped: 7/12/2026, 2:32:56 AM
 
 [!](_wp-content_uploads_2019_10_Lowest-Close-Position-Filter-Buy.png.md)
 
@@ -5875,7 +5875,7 @@ You have already reported this .
 #### _documentation_lowest-close-rule.md
 
 > Source: https://portfolioboss.com/documentation/lowest-close-rule
-> Scraped: 7/5/2026, 2:54:09 AM
+> Scraped: 7/12/2026, 2:34:22 AM
 
 [!](_wp-content_uploads_2019_10_Lowest-Close-Rule-000.png.md)
 
@@ -5912,7 +5912,7 @@ You have already reported this .
 #### _documentation_macd-filter.md
 
 > Source: https://portfolioboss.com/documentation/macd-filter
-> Scraped: 7/5/2026, 2:53:50 AM
+> Scraped: 7/12/2026, 2:34:04 AM
 
 !
 
@@ -6068,7 +6068,7 @@ You have already reported this .
 #### _documentation_managing-your-strategies.md
 
 > Source: https://portfolioboss.com/documentation/managing-your-strategies
-> Scraped: 7/5/2026, 2:52:46 AM
+> Scraped: 7/12/2026, 2:33:04 AM
 
 !
 
@@ -6171,7 +6171,7 @@ You have already reported this .
 #### _documentation_manual-results-tab.md
 
 > Source: https://portfolioboss.com/documentation/manual-results-tab
-> Scraped: 7/5/2026, 2:52:24 AM
+> Scraped: 7/12/2026, 2:32:35 AM
 
 !
 
@@ -6272,7 +6272,7 @@ You have already reported this .
 #### _documentation_meta-strategy.md
 
 > Source: https://portfolioboss.com/documentation/meta-strategy
-> Scraped: 7/5/2026, 2:53:15 AM
+> Scraped: 7/12/2026, 2:33:32 AM
 
 #### Introduction to Meta-Strategy
 
@@ -6392,7 +6392,7 @@ You have already reported this .
 #### _documentation_metrics-panel-guide.md
 
 > Source: https://portfolioboss.com/documentation/metrics-panel-guide
-> Scraped: 7/5/2026, 2:53:13 AM
+> Scraped: 7/12/2026, 2:33:30 AM
 
 !
 
@@ -6618,7 +6618,7 @@ You have already reported this .
 #### _documentation_miscellaneous-tab-guide.md
 
 > Source: https://portfolioboss.com/documentation/miscellaneous-tab-guide
-> Scraped: 7/5/2026, 2:54:13 AM
+> Scraped: 7/12/2026, 2:34:26 AM
 
 !
 
@@ -6703,7 +6703,7 @@ You have already reported this .
 #### _documentation_monthly-performance-panel-guide.md
 
 > Source: https://portfolioboss.com/documentation/monthly-performance-panel-guide
-> Scraped: 7/5/2026, 2:53:13 AM
+> Scraped: 7/12/2026, 2:33:31 AM
 
 This tab shows the monthly and yearly performance-history (profit or loss) for the whole backtest period. The tab is located at the [Reports Area](_wp-content_uploads_2021_05_gdg56ye5dg_00000_00000.png.md) of the “Backtest Strategy” page.
 
@@ -6730,7 +6730,7 @@ You have already reported this .
 #### _documentation_moving-average-cross-over-filter.md
 
 > Source: https://portfolioboss.com/documentation/moving-average-cross-over-filter
-> Scraped: 7/5/2026, 2:53:35 AM
+> Scraped: 7/12/2026, 2:34:12 AM
 
 [!](_wp-content_uploads_2019_10_Moving-Average-Cross-Over-Filter-Buy.png.md)
 
@@ -6795,7 +6795,7 @@ You have already reported this .
 #### _documentation_moving-average-persistence-filter.md
 
 > Source: https://portfolioboss.com/documentation/moving-average-persistence-filter
-> Scraped: 7/5/2026, 2:53:37 AM
+> Scraped: 7/12/2026, 2:34:08 AM
 
 !
 
@@ -6906,7 +6906,7 @@ You have already reported this .
 #### _documentation_moving-average-persistence-rule.md
 
 > Source: https://portfolioboss.com/documentation/moving-average-persistence-rule
-> Scraped: 7/5/2026, 2:54:12 AM
+> Scraped: 7/12/2026, 2:34:21 AM
 
 !
 
@@ -6967,7 +6967,7 @@ You have already reported this .
 #### _documentation_multi-strategy.md
 
 > Source: https://portfolioboss.com/documentation/multi-strategy
-> Scraped: 7/5/2026, 2:53:16 AM
+> Scraped: 7/12/2026, 2:33:33 AM
 
 !
 
@@ -7358,7 +7358,7 @@ You have already reported this .
 #### _documentation_n-atr-above-below-sma-filter.md
 
 > Source: https://portfolioboss.com/documentation/n-atr-above-below-sma-filter
-> Scraped: 7/5/2026, 2:53:34 AM
+> Scraped: 7/12/2026, 2:34:10 AM
 
 [!](_wp-content_uploads_2019_10_N-ATR-Above-Below-SMA-Filter-Buy.png.md)
 
@@ -7437,7 +7437,7 @@ You have already reported this .
 #### _documentation_octane-indicator-filter-guide.md
 
 > Source: https://portfolioboss.com/documentation/octane-indicator-filter-guide
-> Scraped: 7/5/2026, 2:52:35 AM
+> Scraped: 7/12/2026, 2:32:48 AM
 
 [!](_wp-content_uploads_2019_11_Octane-Indicator-Filter.png.md)
 
@@ -7456,7 +7456,7 @@ You have already reported this .
 #### _documentation_overall-top-results-tab.md
 
 > Source: https://portfolioboss.com/documentation/overall-top-results-tab
-> Scraped: 7/5/2026, 2:53:12 AM
+> Scraped: 7/12/2026, 2:33:32 AM
 
 !
 
@@ -7573,7 +7573,7 @@ You have already reported this .
 #### _documentation_pb-pattern-score-rule.md
 
 > Source: https://portfolioboss.com/documentation/pb-pattern-score-rule
-> Scraped: 7/5/2026, 2:54:11 AM
+> Scraped: 7/12/2026, 2:34:22 AM
 
 * * * [!](_wp-content_uploads_2019_10_PB-Pattern-Score-Rule-000.png.md)
 
@@ -7624,7 +7624,7 @@ Search
 #### _documentation_perfect-stop-filter.md
 
 > Source: https://portfolioboss.com/documentation/perfect-stop-filter
-> Scraped: 7/5/2026, 2:53:56 AM
+> Scraped: 7/12/2026, 2:34:07 AM
 
 [!](_wp-content_uploads_2019_10_Perfect-Stop-Filter-Buy.png.md)
 
@@ -7683,7 +7683,7 @@ You have already reported this .
 #### _documentation_portfolio-boss-forum.md
 
 > Source: https://portfolioboss.com/documentation/portfolio-boss-forum
-> Scraped: 7/5/2026, 2:52:21 AM
+> Scraped: 7/12/2026, 2:32:32 AM
 
 You can visit our forum by clicking the “Globe” button at the top-right corner of the interface. It will take you to [https://portfolioboss.com/forums/](_forums_.md) where you can ask questions about Portfolio Boss or just chill out with your fellow traders.
 
@@ -7696,7 +7696,7 @@ You have already reported this .
 #### _documentation_portfolio-instruments-panel-guide.md
 
 > Source: https://portfolioboss.com/documentation/portfolio-instruments-panel-guide
-> Scraped: 7/5/2026, 2:52:39 AM
+> Scraped: 7/12/2026, 2:32:58 AM
 
 !
 
@@ -7834,7 +7834,7 @@ You have already reported this .
 #### _documentation_portfolio-management-page-overview-2.md
 
 > Source: https://portfolioboss.com/documentation/portfolio-management-page-overview-2
-> Scraped: 7/5/2026, 2:52:37 AM
+> Scraped: 7/12/2026, 2:32:59 AM
 
 ![Portfolio Boss - Portfolio Page Regions Defined](https://portfolioboss.com/wp-content/uploads/2024/04/Portfolio-Boss-Portfolio-Page-Regions-3-1024x555.jpg)
 
@@ -7859,7 +7859,7 @@ You have already reported this .
 #### _documentation_portfolio-management-page-overview.md
 
 > Source: https://portfolioboss.com/documentation/portfolio-management-page-overview
-> Scraped: 7/5/2026, 2:52:39 AM
+> Scraped: 7/12/2026, 2:33:00 AM
 
 !
 
@@ -7884,7 +7884,7 @@ You have already reported this .
 #### _documentation_portfolio-position-limit-filter.md
 
 > Source: https://portfolioboss.com/documentation/portfolio-position-limit-filter
-> Scraped: 7/5/2026, 2:52:28 AM
+> Scraped: 7/12/2026, 2:32:45 AM
 
 * * * [!](_wp-content_uploads_2019_10_Portfolio-Position-Limit-Filter-Buy.png.md)
 
@@ -7928,7 +7928,7 @@ Search
 #### _documentation_portfolio-threshold-filter.md
 
 > Source: https://portfolioboss.com/documentation/portfolio-threshold-filter
-> Scraped: 7/5/2026, 2:52:33 AM
+> Scraped: 7/12/2026, 2:32:56 AM
 
 [!](_wp-content_uploads_2019_10_Portfolio-Threshold-Filter-Buy.png.md)
 
@@ -7969,7 +7969,7 @@ You have already reported this .
 #### _documentation_portfolios-panel-guide.md
 
 > Source: https://portfolioboss.com/documentation/portfolios-panel-guide
-> Scraped: 7/5/2026, 2:52:40 AM
+> Scraped: 7/12/2026, 2:33:01 AM
 
 !
 
@@ -8100,7 +8100,7 @@ You have already reported this .
 #### _documentation_position-duration-filter.md
 
 > Source: https://portfolioboss.com/documentation/position-duration-filter
-> Scraped: 7/5/2026, 2:53:56 AM
+> Scraped: 7/12/2026, 2:33:59 AM
 
 !
 
@@ -8128,7 +8128,7 @@ You have already reported this .
 #### _documentation_positions-panel-guide.md
 
 > Source: https://portfolioboss.com/documentation/positions-panel-guide
-> Scraped: 7/5/2026, 2:53:13 AM
+> Scraped: 7/12/2026, 2:33:30 AM
 
 !
 
@@ -8314,7 +8314,7 @@ You have already reported this .
 #### _documentation_price-range-filter.md
 
 > Source: https://portfolioboss.com/documentation/price-range-filter
-> Scraped: 7/5/2026, 2:53:52 AM
+> Scraped: 7/12/2026, 2:34:01 AM
 
 [!](_wp-content_uploads_2019_10_Price-Range-Filter-Buy.png.md)
 
@@ -8358,7 +8358,7 @@ You have already reported this .
 #### _documentation_price-range-index-filter.md
 
 > Source: https://portfolioboss.com/documentation/price-range-index-filter
-> Scraped: 7/5/2026, 2:52:25 AM
+> Scraped: 7/12/2026, 2:32:54 AM
 
 * * * [!](_wp-content_uploads_2019_10_Price-Range-Index-Filter-Buy.png.md)
 
@@ -8403,7 +8403,7 @@ Search
 #### _documentation_primitive-pattern-filter.md
 
 > Source: https://portfolioboss.com/documentation/primitive-pattern-filter
-> Scraped: 7/5/2026, 2:53:55 AM
+> Scraped: 7/12/2026, 2:33:47 AM
 
 [!](_wp-content_uploads_2019_10_Primitive-Pattern-Filter-Buy.png.md)
 
@@ -8472,7 +8472,7 @@ You have already reported this .
 #### _documentation_quick-start-guide.md
 
 > Source: https://portfolioboss.com/documentation/quick-start-guide
-> Scraped: 7/5/2026, 2:52:38 AM
+> Scraped: 7/12/2026, 2:33:02 AM
 
 !Let's learn the essential features, and make money right away without diving too deep! You can click the links scattered throughout this page, and they'll take you to pages with in-depth explanations.
 
@@ -8776,7 +8776,7 @@ You have already reported this .
 #### _documentation_ranking-panel-guide.md
 
 > Source: https://portfolioboss.com/documentation/ranking-panel-guide
-> Scraped: 7/5/2026, 2:52:53 AM
+> Scraped: 7/12/2026, 2:33:10 AM
 
 !
 
@@ -8867,7 +8867,7 @@ You have already reported this .
 #### _documentation_rate-of-change-index-filter.md
 
 > Source: https://portfolioboss.com/documentation/rate-of-change-index-filter
-> Scraped: 7/5/2026, 2:53:55 AM
+> Scraped: 7/12/2026, 2:34:10 AM
 
 [!](https://portfolioboss.wpenginepowered.com/wp-content/uploads/2019/10/Return-Index-Filter-Buy.png)
 
@@ -8910,7 +8910,7 @@ You have already reported this .
 #### _documentation_rate-of-change-roc-position-filter.md
 
 > Source: https://portfolioboss.com/documentation/rate-of-change-roc-position-filter
-> Scraped: 7/5/2026, 2:53:31 AM
+> Scraped: 7/12/2026, 2:34:06 AM
 
 !
 
@@ -8976,7 +8976,7 @@ You have already reported this .
 #### _documentation_retracement-filter.md
 
 > Source: https://portfolioboss.com/documentation/retracement-filter
-> Scraped: 7/5/2026, 2:53:57 AM
+> Scraped: 7/12/2026, 2:33:57 AM
 
 [!](_wp-content_uploads_2019_10_Retracement-Filter-Buy.png.md)
 
@@ -9064,7 +9064,7 @@ You have already reported this .
 #### _documentation_return-index-filter.md
 
 > Source: https://portfolioboss.com/documentation/return-index-filter
-> Scraped: 7/5/2026, 2:52:30 AM
+> Scraped: 7/12/2026, 2:32:47 AM
 
 *   »
 *   »
@@ -9101,7 +9101,7 @@ You have already reported this .
 #### _documentation_rsi-filter.md
 
 > Source: https://portfolioboss.com/documentation/rsi-filter
-> Scraped: 7/5/2026, 2:53:48 AM
+> Scraped: 7/12/2026, 2:34:11 AM
 
 [!](_wp-content_uploads_2019_10_RSI-Filter-Buy.png.md)
 
@@ -9156,7 +9156,7 @@ You have already reported this .
 #### _documentation_sell-filters-panel-guide.md
 
 > Source: https://portfolioboss.com/documentation/sell-filters-panel-guide
-> Scraped: 7/5/2026, 2:52:54 AM
+> Scraped: 7/12/2026, 2:33:11 AM
 
 !
 
@@ -9255,7 +9255,7 @@ You have already reported this .
 #### _documentation_settings-page-overview-guide.md
 
 > Source: https://portfolioboss.com/documentation/settings-page-overview-guide
-> Scraped: 7/5/2026, 2:52:16 AM
+> Scraped: 7/12/2026, 2:32:40 AM
 
 *   »
 *   »
@@ -9292,7 +9292,7 @@ You have already reported this .
 #### _documentation_simple-moving-average-sma-index-filter.md
 
 > Source: https://portfolioboss.com/documentation/simple-moving-average-sma-index-filter
-> Scraped: 7/5/2026, 2:53:58 AM
+> Scraped: 7/12/2026, 2:34:13 AM
 
 * * * [!](_wp-content_uploads_2019_10_Simple-Moving-Average-Index-Filter-Buy.png.md)
 
@@ -9345,7 +9345,7 @@ Search
 #### _documentation_simple-moving-average-sma-position-filter.md
 
 > Source: https://portfolioboss.com/documentation/simple-moving-average-sma-position-filter
-> Scraped: 7/5/2026, 2:53:53 AM
+> Scraped: 7/12/2026, 2:34:13 AM
 
 [!](_wp-content_uploads_2019_10_Simple-Moving-Average-Position-Filter-Buy.png.md)
 
@@ -9402,7 +9402,7 @@ You have already reported this .
 #### _documentation_smi-filter.md
 
 > Source: https://portfolioboss.com/documentation/smi-filter
-> Scraped: 7/5/2026, 2:52:17 AM
+> Scraped: 7/12/2026, 2:32:36 AM
 
 * * *
 
@@ -9440,7 +9440,7 @@ Search
 #### _documentation_software-version-and-updates.md
 
 > Source: https://portfolioboss.com/documentation/software-version-and-updates
-> Scraped: 7/5/2026, 2:52:14 AM
+> Scraped: 7/12/2026, 2:32:38 AM
 
 [!](_wp-content_uploads_2019_10_About-Buttonn_00000.png.md)
 
@@ -9455,7 +9455,7 @@ You have already reported this .
 #### _documentation_stats-tab.md
 
 > Source: https://portfolioboss.com/documentation/stats-tab
-> Scraped: 7/5/2026, 2:53:14 AM
+> Scraped: 7/12/2026, 2:33:31 AM
 
 **THIS PAGE IS BEING RENOVATED**
 
@@ -9565,7 +9565,7 @@ You have already reported this .
 #### _documentation_stochastic-oscillator-filter.md
 
 > Source: https://portfolioboss.com/documentation/stochastic-oscillator-filter
-> Scraped: 7/5/2026, 2:53:59 AM
+> Scraped: 7/12/2026, 2:33:55 AM
 
 !
 
@@ -9682,7 +9682,7 @@ You have already reported this .
 #### _documentation_strategy-in-market-filter.md
 
 > Source: https://portfolioboss.com/documentation/strategy-in-market-filter
-> Scraped: 7/5/2026, 2:52:20 AM
+> Scraped: 7/12/2026, 2:32:39 AM
 
 *   »
 *   »
@@ -9721,7 +9721,7 @@ You have already reported this .
 #### _documentation_strategy-management-page-overview.md
 
 > Source: https://portfolioboss.com/documentation/strategy-management-page-overview
-> Scraped: 7/5/2026, 2:52:48 AM
+> Scraped: 7/12/2026, 2:33:03 AM
 
 !
 
@@ -9778,7 +9778,7 @@ You have already reported this .
 #### _documentation_strategy-panel-guide.md
 
 > Source: https://portfolioboss.com/documentation/strategy-panel-guide
-> Scraped: 7/5/2026, 2:52:48 AM
+> Scraped: 7/12/2026, 2:33:05 AM
 
 !
 
@@ -9861,7 +9861,7 @@ You have already reported this .
 #### _documentation_surprise-day-filter.md
 
 > Source: https://portfolioboss.com/documentation/surprise-day-filter
-> Scraped: 7/5/2026, 2:54:00 AM
+> Scraped: 7/12/2026, 2:34:14 AM
 
 [!](_wp-content_uploads_2020_08_Surprise-Day-Buy-Filter.png.md)
 [!](_wp-content_uploads_2020_08_Surprise-Day-Sell-Filter.png.md)
@@ -9946,7 +9946,7 @@ You have already reported this .
 #### _documentation_sync-details-search-results-panel.md
 
 > Source: https://portfolioboss.com/documentation/sync-details-search-results-panel
-> Scraped: 7/5/2026, 2:52:43 AM
+> Scraped: 7/12/2026, 2:33:06 AM
 
 !
 
@@ -9995,7 +9995,7 @@ You have already reported this .
 #### _documentation_system-requirements-installation.md
 
 > Source: https://portfolioboss.com/documentation/system-requirements-installation
-> Scraped: 7/5/2026, 2:52:26 AM
+> Scraped: 7/12/2026, 2:32:51 AM
 
 !
 
@@ -10036,7 +10036,7 @@ You have already reported this .
 #### _documentation_system-settings-panel-guide.md
 
 > Source: https://portfolioboss.com/documentation/system-settings-panel-guide
-> Scraped: 7/5/2026, 2:52:50 AM
+> Scraped: 7/12/2026, 2:33:07 AM
 
 !
 
@@ -10462,7 +10462,7 @@ You have already reported this .
 #### _documentation_the-divine-engine-and-the-boss.md
 
 > Source: https://portfolioboss.com/documentation/the-divine-engine-and-the-boss
-> Scraped: 7/5/2026, 2:53:14 AM
+> Scraped: 7/12/2026, 2:33:32 AM
 
 [!](_wp-content_uploads_2020_07_Electronic-Bull-Final-w-Border-Logo.png.md)
 
@@ -10503,7 +10503,7 @@ You have already reported this .
 #### _documentation_top-n-threshold-filter.md
 
 > Source: https://portfolioboss.com/documentation/top-n-threshold-filter
-> Scraped: 7/5/2026, 2:54:01 AM
+> Scraped: 7/12/2026, 2:34:13 AM
 
 [!](_wp-content_uploads_2019_10_Top-N-Threshold-Filter-Sell.png.md)
 
@@ -10525,7 +10525,7 @@ You have already reported this .
 #### _documentation_trade-plan-calculator.md
 
 > Source: https://portfolioboss.com/documentation/trade-plan-calculator
-> Scraped: 7/5/2026, 2:53:15 AM
+> Scraped: 7/12/2026, 2:33:32 AM
 
 [!](_wp-content_uploads_2019_10_Trade-Plan-Calculator-Dialog.png.md)
 
@@ -10638,7 +10638,7 @@ You have already reported this .
 #### _documentation_trade-signals-panel-guide.md
 
 > Source: https://portfolioboss.com/documentation/trade-signals-panel-guide
-> Scraped: 7/5/2026, 2:53:13 AM
+> Scraped: 7/12/2026, 2:33:31 AM
 
 !
 
@@ -10825,7 +10825,7 @@ You have already reported this .
 #### _documentation_types-of-strategy.md
 
 > Source: https://portfolioboss.com/documentation/types-of-strategy
-> Scraped: 7/5/2026, 2:52:44 AM
+> Scraped: 7/12/2026, 2:32:59 AM
 
 !
 
@@ -10852,7 +10852,7 @@ You have already reported this .
 #### _documentation_user-guide-overview.md
 
 > Source: https://portfolioboss.com/documentation/user-guide-overview
-> Scraped: 7/5/2026, 2:52:11 AM
+> Scraped: 7/12/2026, 2:32:42 AM
 
 ## !
 
@@ -11033,7 +11033,7 @@ Use the “Search” button (at the bottom-right of this page) to search for top
 #### _documentation_video-tutorials-deprecated.md
 
 > Source: https://portfolioboss.com/documentation/video-tutorials-deprecated
-> Scraped: 7/5/2026, 2:54:14 AM
+> Scraped: 7/12/2026, 2:34:27 AM
 
 [!](_wp-content_uploads_2019_10_Video-Tutorials.png.md)
 
@@ -11058,7 +11058,7 @@ You have already reported this .
 #### _documentation_volatility-change-index-filter.md
 
 > Source: https://portfolioboss.com/documentation/volatility-change-index-filter
-> Scraped: 7/5/2026, 2:54:03 AM
+> Scraped: 7/12/2026, 2:34:14 AM
 
 [!](_wp-content_uploads_2019_10_Volatility-Change-Index-Filter-Buy.png.md)
 
@@ -11105,7 +11105,7 @@ You have already reported this .
 #### _documentation_volatility-change-position-filter.md
 
 > Source: https://portfolioboss.com/documentation/volatility-change-position-filter
-> Scraped: 7/5/2026, 2:54:00 AM
+> Scraped: 7/12/2026, 2:34:15 AM
 
 [!](_wp-content_uploads_2019_10_Volatility-Change-Position-Filter-Buy.png.md)
 
@@ -11156,7 +11156,7 @@ You have already reported this .
 #### _documentation_volatility-range-filter.md
 
 > Source: https://portfolioboss.com/documentation/volatility-range-filter
-> Scraped: 7/5/2026, 2:54:03 AM
+> Scraped: 7/12/2026, 2:34:16 AM
 
 * * * [!](_wp-content_uploads_2019_10_Volatility-Range-Filter-Buy.png.md)
 
@@ -11223,7 +11223,7 @@ Search
 #### _documentation_volatility-range-percentile-index-filter.md
 
 > Source: https://portfolioboss.com/documentation/volatility-range-percentile-index-filter
-> Scraped: 7/5/2026, 2:54:05 AM
+> Scraped: 7/12/2026, 2:34:17 AM
 
 [!](_wp-content_uploads_2019_10_Volatility-Range-Percentile-Index-Filter-Buy.png.md)
 
@@ -11290,7 +11290,7 @@ You have already reported this .
 #### _documentation_volatility-range-percentile-position-filter.md
 
 > Source: https://portfolioboss.com/documentation/volatility-range-percentile-position-filter
-> Scraped: 7/5/2026, 2:54:07 AM
+> Scraped: 7/12/2026, 2:34:17 AM
 
 [!](_wp-content_uploads_2019_10_Volatility-Range-Percentile-Position-Filter-Buy.png.md)
 
@@ -11345,7 +11345,7 @@ You have already reported this .
 #### _documentation_volatility-rule.md
 
 > Source: https://portfolioboss.com/documentation/volatility-rule
-> Scraped: 7/5/2026, 2:52:23 AM
+> Scraped: 7/12/2026, 2:32:44 AM
 
 [!](_wp-content_uploads_2019_10_Volatility-Rule-000.png.md)
 
